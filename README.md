@@ -1,6 +1,7 @@
 # Template
 Starter template for microservice api using springboot and a postgres database. Using the standard architectural pattern(Controller,Service,Repository)
-to easily employ the deployment of JPA object mapping for the sole purpose to not have to write SQL queries.
+to easily employ the deployment of JPA object mapping. This will stay in a unfinish state as it is only used as a tamplate for future project that I would
+like to do.
 
 # Set up
 - in pom.xml add dependency if using another DB or other standard springboot plugins.
